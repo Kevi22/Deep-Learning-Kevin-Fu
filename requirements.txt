@@ -1,0 +1,5 @@
+ensorflow
+keras
+gymnasium
+ale-py
+numpy
